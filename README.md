@@ -1,10 +1,11 @@
-# El-Bosque
-Trabajo practico 2 TD VI
-# Bienvenidos al bosque
+# Bienvenidos al bosque: Trabajo practico 2 TD VI
 
 🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-En este trabajo práctico, creamos un sistema con el propósito de predecir si un usuario hará o no clic en una publicidad online. Esto lo haremos entrenando modelos de aprendizaje automático.
 🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
+
+## Descripción
+
+En este trabajo práctico, creamos un sistema con el propósito de predecir si un usuario hará o no clic en una publicidad online. Esto lo haremos entrenando modelos de aprendizaje automático.
 
 ## Requerimientos
 
